@@ -42,7 +42,7 @@ namespace _01_MainSubjects
             //customerName = "Ender";
             //customerSurname = "Aytekin";
             //customerEmail = "enderaytekin@gmail.com";
-            //customerPhone = "+90 531 623 33 88";
+            //customerPhone = "+90 500 000 00 00";
             //customerDistrict = "Kartal";
             //customerCity = "İstanbul";
 
